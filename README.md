@@ -1,1 +1,1 @@
-# FreeCodeCamp--Scientific_Computing
+# FreeCodeCamp/Scientific_Computing
